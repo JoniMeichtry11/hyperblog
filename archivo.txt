@@ -1,5 +1,7 @@
 Esto es un achivo
 
+hoy hablaremos de su vida 
+
 archivo de texto con funcionamiento 
 
 <i class="fa fa-exclamation" aria-hidden="true"></i>
