@@ -1,0 +1,7 @@
+Esto es un achivo
+
+archivo de texto con funcionamiento 
+
+<i class="fa fa-exclamation" aria-hidden="true"></i>
+
+acaba de aparcer un icono de font-awesome ._.XD
